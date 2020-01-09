@@ -13,3 +13,6 @@
 # language governing permissions and limitations under the License.
 
 from ._client import ApiException, Client
+
+
+version = '0.0.1'
